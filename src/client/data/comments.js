@@ -25,7 +25,7 @@ const comments = {
   ],
   "BAPIPRjQce9":[
     {
-      "text":"Those are cute! They're like silver dollar pancakes.",
+      "text":"They are cute! They're like silver dollar pancakes.",
       "user": "rrsimonsen"
     },
     {
