@@ -20,10 +20,10 @@ app.get('*', (req, res) => {
   res.sendFile(path.join(__dirname, 'index.html'))
 })
 
-app.listen(3000, 'localhost', (err) => {
+app.listen(9090, 'localhost', (err) => {
   if (err) {
     return console.error(err)
   }
 
-  console.log('Server listening @ http://localhost:3000')
+  console.log('Server listening @ http://localhost:9090')
 })
