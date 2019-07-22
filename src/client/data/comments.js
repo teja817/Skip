@@ -29,7 +29,7 @@ const comments = {
       "user": "rrsimonsen"
     },
     {
-      "text":"I like baby pancakes but gluten free please!! I'll bring the coffee!! See you in 6 days!!!!!! 😝😛😝♥️",
+      "text":"hey i like baby pancakes but gluten free please!! I'll bring the coffee!! See you in 6 days!!!!!! 😝😛😝♥️",
       "user": "terzisn"
     },
     {
